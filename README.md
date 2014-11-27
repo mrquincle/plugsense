@@ -1,5 +1,9 @@
 # Pumps data from Plugwise to CommonSense database
 
+Dependency:
+
+* python-plugwise, which can be found at https://bitbucket.org/hadara/python-plugwise/wiki/Home
+
 Configure by:
 
     cp credentials.default.txt credentials.txt
