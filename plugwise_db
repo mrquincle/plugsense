@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# We will use bash functionality here in the form of an associative array
+# we require here version > 4
+
+declare -A plugwise_db
+
+plugwise_db["458709"]="000D6F000278D291" # hub + aquisition laptop
+plugwise_db["458710"]="000D6F00027869EA" # Peet
+plugwise_db["458711"]="000D6F0002793FF9" # koffie apparaat
+plugwise_db["458712"]="000D6F000278CF44" # water cooker
+plugwise_db["458713"]="000D6F0002793FD6" # 3d printer
+plugwise_db["458714"]="000D6F0002793FFD" # koelkast
+#broken by Giovanni plugwise_db["328205"]="000D6F0000D3363F" # Jos + FeiFei + Remco
+plugwise_db["458716"]="000D6F0002788A39" # monitor
+plugwise_db["458717"]="000D6F0000C3AF6A" # Anne + Dominik + Bart
+

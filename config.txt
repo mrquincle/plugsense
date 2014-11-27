@@ -1,0 +1,3 @@
+# Use 60 seconds as default sleep time
+sleeptime=200
+sleeptimestep=20
