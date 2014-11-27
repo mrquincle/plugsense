@@ -4,7 +4,7 @@ Configure by:
 
     cp credentials.default.txt credentials.txt
 
-And adjust the name over there and the md5 hash by the account data at [https://common.sense-os.nl].
+And adjust the name over there and the md5 hash by the account data at https://common.sense-os.nl.
 
 Just run:
 
